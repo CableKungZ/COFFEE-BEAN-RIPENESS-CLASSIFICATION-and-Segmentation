@@ -23,7 +23,7 @@ This project aims to create an AI model deployed on the OKDO NVIDIA Nano Module 
 ## Model Training
 
 - **Training Environment**: Google Colab
-  - [Colab Notebook](https://colab.research.google.com/drive/1QVHGsr3ZkkgbWlpetenfu-7QQmv7GIwC#scrollTo=BSd93ZJzZZKt)
+  - [Colab Notebook]([https://colab.research.google.com/drive/1NS4xAejqud0e59tvqqcQzUdFUYZ8HSvp#scrollTo=BSd93ZJzZZKt)
 - After training, download the `best.pt` file and place it in the `Model` directory.
 
 ## Roboflow Project
