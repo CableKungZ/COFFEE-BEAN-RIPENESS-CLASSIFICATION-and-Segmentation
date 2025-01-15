@@ -3,7 +3,7 @@
 This project aims to create an AI model deployed on the OKDO NVIDIA Nano Module to classify and segment coffee bean ripeness. The model predicts the positions of coffee beans in images and classifies them based on their colors.
 
 ## Dataset Sources
-
+`Current Model is Training with Original Coffee Bean Images to Predicted Real Images`
 1. **Original Coffee Bean Images**: Sourced from [Zenodo](https://zenodo.org/records/14271151?fbclid=IwY2xjawHctJ1leHRuA2FlbQIxMAABHYNqZB-VkHU147VEcePLeGKpx5ARMJ4TjrNGzFbSavZUIFpdE5sNe2hYHA_aem_6_5OX2mR0CLd84wQ9VhT1g).
 2. **Real Images**: Collected from [Phaiwan Farm](https://www.facebook.com/profile.php?id=100064945350451), Nakhon Si Thammarat, Thailand.
 
